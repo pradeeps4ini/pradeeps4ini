@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m @pradeeps4ini.
+- 👋 Hello there, I’m Pradeep Saini.
 - 👀 I’m a frontend web developer.
 - 🌱 I’m currently learning React JS,
 - 📫 Reach me at pradeepsaini@protonmail.com for collaboration.
